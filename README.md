@@ -1,6 +1,6 @@
 ### Hi😄
 
-I'm Octo, a web developper currently working at <a href="https://www.410-gone.fr/">410 Gone</a> on Prestashop. I started with Symfony and Angular, but I'm more working on NextJS and Laravel now, I'm also learning React Native.
+I'm Hocto, a web developper currently working at <a href="https://www.410-gone.fr/">410 Gone</a> on Prestashop. I started with Symfony and Angular, but I'm more working on NextJS and Laravel now, I'm also learning React Native.
 
 <!--
 **HoctoPrism/HoctoPrism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
