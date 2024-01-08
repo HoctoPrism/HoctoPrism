@@ -1,6 +1,6 @@
 ### Hi😄
 
-I'm Hocto, a web developper mainly working on NextJS, Laravel, React Native and Prestashop now.
+I'm Hocto, a web developper mainly working on NextJS, Laravel, React Native and Prestashop.
 
 <!--
 **HoctoPrism/HoctoPrism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
